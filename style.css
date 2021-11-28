@@ -1,0 +1,30 @@
+.book {
+    cursor: pointer;
+    background-color: coral;
+
+}
+
+.sport hr {
+    margin-bottom: 10px;
+    background-color: coral;
+}
+
+.modal-content {
+    margin-top: 100px;
+    background-color: coral;
+}
+
+.img_modal {
+    display: inline-block;
+    background-color: coral;
+}
+
+.p_modal {
+    margin-top: 10px;
+    background-color: coral;
+}
+
+.modal-body {
+    text-align: center;
+    background-color: coral;
+}
